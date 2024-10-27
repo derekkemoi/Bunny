@@ -305,7 +305,7 @@
     },
     {
       "surveyId": "DA6UAI6GDR",
-      "surveyCategory": "Nation Media Group",
+      "surveyCategory": "Nation Media",
       "surveyPaid": false,
       "surveyAmount": 38,
       "surveyQuestions": [
@@ -866,7 +866,7 @@
     },
     {
       "surveyId": "RTCU8QFH2U",
-      "surveyCategory": "Smart/Electronic TVs",
+      "surveyCategory": "Smart TVs",
       "surveyPaid": true,
       "surveyAmount": 53,
       "surveyQuestions": [
@@ -1026,7 +1026,7 @@
     },
     {
       "surveyId": "W48EP156T8",
-      "surveyCategory": "Safaricom Home Fibre",
+      "surveyCategory": "Safaricom Home",
       "surveyPaid": true,
       "surveyAmount": 88,
       "surveyQuestions": [
@@ -1538,7 +1538,7 @@
     },
     {
       "surveyId": "R7VXJYT0HN",
-      "surveyCategory": "Access to clean water",
+      "surveyCategory": "Clean water",
       "surveyPaid": true,
       "surveyAmount": 58,
       "surveyQuestions": [
@@ -1965,7 +1965,7 @@
     },
     {
       "surveyId": "8ULTHSYN47",
-      "surveyCategory": "Healthcare access",
+      "surveyCategory": "Healthcare",
       "surveyPaid": true,
       "surveyAmount": 56,
       "surveyQuestions": [
@@ -2253,7 +2253,7 @@
     },
     {
       "surveyId": "NM467SJLMCX",
-      "surveyCategory": "KPLC(Kenya Power)",
+      "surveyCategory": "KPLC",
       "surveyPaid": true,
       "surveyAmount": 61,
       "surveyQuestions": [
