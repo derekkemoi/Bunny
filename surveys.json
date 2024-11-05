@@ -2578,6 +2578,400 @@
       ]
     },
     {
+        "surveyId": "CD90EF12GH",
+        "surveyCategory": "FOOD DELIVERY",
+        "surveyPaid": false,
+        "surveyAmount": 58,
+      "surveyQuestions": [
+                    "surveyQuestion": "How do you usually plan your trips?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Online Research",
+                    "Travel Agents",
+                    "Friends/Family Recommendations",
+                    "Other"
+                ]
+            },
+            {
+                "surveyQuestion": "What activities do you enjoy most while traveling?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Sightseeing",
+                    "Adventure Sports",
+                    "Cultural Experiences",
+                    "Other"
+                ]
+            }
+        ]
+    },
+    {
+        "surveyId": "OP90QR12ST",
+        "surveyCategory": "CLOTHING BRANDS",
+        "surveyPaid": false,
+        "surveyAmount": 40,
+        "surveyQuestions": [
+            {
+                "surveyQuestion": "How often do you purchase clothing online?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Weekly",
+                    "Monthly",
+                    "Every Few Months",
+                    "Rarely",
+                    "Never"
+                ]
+            },
+            {
+                "surveyQuestion": "Which clothing brands do you prefer?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Nike",
+                    "Adidas",
+                    "H&M",
+                    "Other"
+                ]
+            },
+            {
+                "surveyQuestion": "How satisfied are you with your online clothing shopping experience?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Very Satisfied",
+                    "Satisfied",
+                    "Neutral",
+                    "Dissatisfied",
+                    "Very Dissatisfied"
+                ]
+            },
+            {
+                "surveyQuestion": "What factors influence your clothing purchase decisions?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Price",
+                    "Brand Reputation",
+                    "Trends",
+                    "Other"
+                ]
+            },
+            {
+                "surveyQuestion": "How likely are you to recommend your favorite clothing brand?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Very Likely",
+                    "Likely",
+                    "Neutral",
+                    "Unlikely",
+                    "Very Unlikely"
+                ]
+            },
+            {
+                "surveyQuestion": "What improvements would you like to see in online clothing shopping?",
+                "surveyType": 2,
+                "surveyAnswers": []
+            }
+        ]
+    },
+    {
+        "surveyId": "UV34WX56YZ",
+        "surveyCategory": "TECH GADGETS",
+        "surveyPaid": true,
+        "surveyAmount": 90,
+        "surveyQuestions": [
+            {
+                "surveyQuestion": "How often do you purchase new tech gadgets?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Monthly",
+                    "Quarterly",
+                    "Annually",
+                    "Rarely",
+                    "Never"
+                ]
+            },
+            {
+                "surveyQuestion": "Which type of gadgets do you buy the most?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Smartphones",
+                    "Laptops",
+                    "Wearables",
+                    "Other"
+                ]
+            },
+            {
+                "surveyQuestion": "How satisfied are you with your latest tech purchase?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Very Satisfied",
+                    "Satisfied",
+                    "Neutral",
+                    "Dissatisfied",
+                    "Very Dissatisfied"
+                ]
+            },
+            {
+                "surveyQuestion": "What features do you look for in tech gadgets?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Performance",
+                    "Battery Life",
+                    "Brand",
+                    "Other"
+                ]
+            },
+            {
+                "surveyQuestion": "How likely are you to recommend your favorite tech gadget?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Very Likely",
+                    "Likely",
+                    "Neutral",
+                    "Unlikely",
+                    "Very Unlikely"
+                ]
+            },
+            {
+                "surveyQuestion": "What factors influence your tech gadget purchase decisions?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Price",
+                    "Reviews",
+                    "Features",
+                    "Other"
+                ]
+            },
+            {
+                "surveyQuestion": "What improvements would you like to see in tech gadgets?",
+                "surveyType": 2,
+                "surveyAnswers": []
+            },
+            {
+                "surveyQuestion": "How do you usually discover new tech gadgets?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Online Reviews",
+                    "Social Media",
+                    "Friends/Family",
+                    "Advertisements"
+                ]
+            }
+        ]
+    },
+    {
+        "surveyId": "CD12EF34GH",
+        "surveyCategory": "PETS",
+        "surveyPaid": false,
+        "surveyAmount": 35,
+        "surveyQuestions": [
+            {
+                "surveyQuestion": "Do you own any pets?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Yes",
+                    "No"
+                ]
+            },
+            {
+                "surveyQuestion": "How often do you buy pet supplies?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Weekly",
+                    "Monthly",
+                    "Every Few Months",
+                    "Rarely",
+                    "Never"
+                ]
+            },
+            {
+                "surveyQuestion": "What type of pet do you own?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Dog",
+                    "Cat",
+                    "Other",
+                    "None"
+                ]
+            },
+            {
+                "surveyQuestion": "How satisfied are you with the pet products available?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Very Satisfied",
+                    "Satisfied",
+                    "Neutral",
+                    "Dissatisfied",
+                    "Very Dissatisfied"
+                ]
+            },
+            {
+                "surveyQuestion": "What factors influence your pet product purchases?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Price",
+                    "Brand",
+                    "Ingredients",
+                    "Other"
+                ]
+            },
+            {
+                "surveyQuestion": "What improvements would you like to see in pet products?",
+                "surveyType": 2,
+                "surveyAnswers": []
+            }
+        ]
+    },
+    {
+        "surveyId": "IJ45KL67MN",
+        "surveyCategory": "HEALTH & WELLNESS",
+        "surveyPaid": true,
+        "surveyAmount": 80,
+        "surveyQuestions": [
+            {
+                "surveyQuestion": "How often do you engage in physical exercise?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Daily",
+                    "Several times a week",
+                    "Weekly",
+                    "Rarely",
+                    "Never"
+                ]
+            },
+            {
+                "surveyQuestion": "What type of exercise do you prefer?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Cardio",
+                    "Strength Training",
+                    "Yoga",
+                    "Other"
+                ]
+            },
+            {
+                "surveyQuestion": "How satisfied are you with your current fitness routine?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Very Satisfied",
+                    "Satisfied",
+                    "Neutral",
+                    "Dissatisfied",
+                    "Very Dissatisfied"
+                ]
+            },
+            {
+                "surveyQuestion": "What health apps do you use?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "MyFitnessPal",
+                    "Strava",
+                    "Fitbit",
+                    "Other"
+                ]
+            },
+            {
+                "surveyQuestion": "How likely are you to recommend your favorite fitness app?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Very Likely",
+                    "Likely",
+                    "Neutral",
+                    "Unlikely",
+                    "Very Unlikely"
+                ]
+            },
+            {
+                "surveyQuestion": "What improvements would you like to see in fitness apps?",
+                "surveyType": 2,
+                "surveyAnswers": []
+            },
+            {
+                "surveyQuestion": "How do you usually discover new health and fitness tips?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Online Articles",
+                    "Social Media",
+                    "Friends/Family",
+                    "Other"
+                ]
+            },
+            {
+                "surveyQuestion": "What motivates you to stay healthy?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Personal Goals",
+                    "Health Concerns",
+                    "Family",
+                    "Other"
+                ]
+            }
+        ]
+    },
+    {
+        "surveyId": "UV78WX90YZ",
+        "surveyCategory": "EDUCATIONAL RESOURCES",
+        "surveyPaid": false,
+        "surveyAmount": 65,
+        "surveyQuestions": [
+            {
+                "surveyQuestion": "How often do you use online educational resources?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Daily",
+                    "Weekly",
+                    "Monthly",
+                    "Rarely",
+                    "Never"
+                ]
+            },
+            {
+                "surveyQuestion": "Which online platforms do you use for learning?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Khan Academy",
+                    "Coursera",
+                    "YouTube",
+                    "Other"
+                ]
+            },
+            {
+                "surveyQuestion": "How satisfied are you with the educational resources available?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Very Satisfied",
+                    "Satisfied",
+                    "Neutral",
+                    "Dissatisfied",
+                    "Very Dissatisfied"
+                ]
+            },
+            {
+                "surveyQuestion": "What subjects do you prefer to study online?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Mathematics",
+                    "Science",
+                    "Arts",
+                    "Other"
+                ]
+            },
+            {
+                "surveyQuestion": "How likely are you to recommend your favorite learning platform?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Very Likely",
+                    "Likely",
+                    "Neutral",
+                    "Unlikely",
+                    "Very Unlikely"
+                ]
+            },
+            {
+                "surveyQuestion": "What improvements would you like to see in online educational resources?",
+                "surveyType": 2,
+                "surveyAnswers": []
+            }
+        ]
+    },
+    {
       "surveyId": "F27LDO510A",
       "surveyCategory": "Mental health",
       "surveyPaid": true,
