@@ -1676,6 +1676,360 @@
         }
       ]
     },
+      {
+        "surveyId": "CD23EF45GH",
+        "surveyCategory": "MOBILE APPS",
+        "surveyPaid": false,
+        "surveyAmount": 55,
+        "surveyQuestions": [
+            {
+                "surveyQuestion": "How often do you download new mobile apps?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Daily",
+                    "Weekly",
+                    "Monthly",
+                    "Rarely",
+                    "Never"
+                ]
+            },
+            {
+                "surveyQuestion": "Which type of apps do you use the most?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Social Media",
+                    "Gaming",
+                    "Productivity",
+                    "Other"
+                ]
+            },
+            {
+                "surveyQuestion": "How satisfied are you with the apps on your phone?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Very Satisfied",
+                    "Satisfied",
+                    "Neutral",
+                    "Dissatisfied",
+                    "Very Dissatisfied"
+                ]
+            },
+            {
+                "surveyQuestion": "What influences your decision to download a new app?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "User Reviews",
+                    "Ratings",
+                    "Friends' Recommendations",
+                    "Advertisements"
+                ]
+            },
+            {
+                "surveyQuestion": "How likely are you to pay for premium versions of apps?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Very Likely",
+                    "Likely",
+                    "Neutral",
+                    "Unlikely",
+                    "Very Unlikely"
+                ]
+            },
+            {
+                "surveyQuestion": "What improvements would you like to see in your favorite apps?",
+                "surveyType": 2,
+                "surveyAnswers": []
+            },
+            {
+                "surveyQuestion": "How do you usually learn about new apps?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "App Store",
+                    "Social Media",
+                    "Friends/Family",
+                    "Advertisements"
+                ]
+            }
+        ]
+    },
+    {
+        "surveyId": "IJ78KL90MN",
+        "surveyCategory": "STREAMING SERVICES",
+        "surveyPaid": true,
+        "surveyAmount": 70,
+        "surveyQuestions": [
+            {
+                "surveyQuestion": "How often do you use streaming services?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Daily",
+                    "Weekly",
+                    "Monthly",
+                    "Rarely",
+                    "Never"
+                ]
+            },
+            {
+                "surveyQuestion": "Which streaming services do you use?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Netflix",
+                    "Hulu",
+                    "Amazon Prime",
+                    "Other"
+                ]
+            },
+            {
+                "surveyQuestion": "How satisfied are you with your current streaming service?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Very Satisfied",
+                    "Satisfied",
+                    "Neutral",
+                    "Dissatisfied",
+                    "Very Dissatisfied"
+                ]
+            },
+            {
+                "surveyQuestion": "What type of content do you prefer to stream?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Movies",
+                    "TV Shows",
+                    "Documentaries",
+                    "Other"
+                ]
+            },
+            {
+                "surveyQuestion": "How likely are you to recommend your favorite streaming service?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Very Likely",
+                    "Likely",
+                    "Neutral",
+                    "Unlikely",
+                    "Very Unlikely"
+                ]
+            },
+            {
+                "surveyQuestion": "What features do you value most in a streaming service?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Content Variety",
+                    "User Interface",
+                    "Price",
+                    "Quality"
+                ]
+            },
+            {
+                "surveyQuestion": "What improvements would you like to see in your streaming service?",
+                "surveyType": 2,
+                "surveyAnswers": []
+            },
+            {
+                "surveyQuestion": "How do you usually discover new shows or movies?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Recommendations",
+                    "Browsing",
+                    "Social Media",
+                    "Other"
+                ]
+            },
+            {
+                "surveyQuestion": "What devices do you use to watch streaming content?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Smart TV",
+                    "Computer",
+                    "Mobile Device",
+                    "Other"
+                ]
+            }
+        ]
+    },
+    {
+        "surveyId": "OP12QR34ST",
+        "surveyCategory": "HOME APPLIANCES",
+        "surveyPaid": false,
+        "surveyAmount": 50,
+        "surveyQuestions": [
+            {
+                "surveyQuestion": "How often do you purchase new home appliances?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Annually",
+                    "Every 2-3 years",
+                    "Every 5 years",
+                    "Rarely",
+                    "Never"
+                ]
+            },
+            {
+                "surveyQuestion": "Which home appliance do you use the most?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Refrigerator",
+                    "Oven",
+                    "Washing Machine",
+                    "Other"
+                ]
+            },
+            {
+                "surveyQuestion": "How satisfied are you with your current home appliances?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Very Satisfied",
+                    "Satisfied",
+                    "Neutral",
+                    "Dissatisfied",
+                    "Very Dissatisfied"
+                ]
+            },
+            {
+                "surveyQuestion": "What factors influence your purchase decisions for home appliances?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Price",
+                    "Brand",
+                    "Energy Efficiency",
+                    "Features"
+                ]
+            },
+            {
+                "surveyQuestion": "How likely are you to recommend your favorite home appliance brand?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Very Likely",
+                    "Likely",
+                    "Neutral",
+                    "Unlikely",
+                    "Very Unlikely"
+                ]
+            },
+            {
+                "surveyQuestion": "What improvements would you like to see in home appliances?",
+                "surveyType": 2,
+                "surveyAnswers": []
+            },
+            {
+                "surveyQuestion": "How do you usually learn about new home appliances?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Online Reviews",
+                    "Social Media",
+                    "Friends/Family",
+                    "Advertisements"
+                ]
+            }
+        ]
+    },
+    {
+        "surveyId": "UV56WX78YZ",
+        "surveyCategory": "GAMING HABITS",
+        "surveyPaid": true,
+        "surveyAmount": 75,
+        "surveyQuestions": [
+            {
+                "surveyQuestion": "How often do you play video games?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Daily",
+                    "Weekly",
+                    "Monthly",
+                    "Rarely",
+                    "Never"
+                ]
+            },
+            {
+                "surveyQuestion": "Which gaming platform do you use the most?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "PC",
+                    "Console",
+                    "Mobile",
+                    "Other"
+                ]
+            },
+            {
+                "surveyQuestion": "How satisfied are you with your current gaming setup?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Very Satisfied",
+                    "Satisfied",
+                    "Neutral",
+                    "Dissatisfied",
+                    "Very Dissatisfied"
+                ]
+            },
+            {
+                "surveyQuestion": "What type of games do you prefer?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Action",
+                    "Adventure",
+                    "Role-Playing",
+                    "Other"
+                ]
+            },
+            {
+                "surveyQuestion": "How likely are you to recommend your favorite game to others?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Very Likely",
+                    "Likely",
+                    "Neutral",
+                    "Unlikely",
+                    "Very Unlikely"
+                ]
+            },
+            {
+                "surveyQuestion": "What factors influence your game purchase decisions?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Price",
+                    "Reviews",
+                    "Graphics",
+                    "Gameplay"
+                ]
+            },
+            {
+                "surveyQuestion": "What improvements would you like to see in video games?",
+                "surveyType": 2,
+                "surveyAnswers": []
+            },
+            {
+                "surveyQuestion": "How do you usually learn about new games?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Gaming Websites",
+                    "Social Media",
+                    "Friends/Family",
+                    "Advertisements"
+                ]
+            },
+            {
+                "surveyQuestion": "What device do you prefer for gaming?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "PC",
+                    "Console",
+                    "Mobile",
+                    "Other"
+                ]
+            },
+            {
+                "surveyQuestion": "How often do you spend on in-game purchases?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Frequently",
+                    "Occasionally",
+                    "Rarely",
+                    "Never"
+                ]
+            }
+        ]
+    },
     {
       "surveyId": "T88EP046T3",
       "surveyCategory": "Facebook",
