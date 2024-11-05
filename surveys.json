@@ -418,6 +418,747 @@
       ]
     },
     {
+        "surveyId": "AB12CD34EF",
+        "surveyCategory": "TECH GADGETS",
+        "surveyPaid": true,
+        "surveyAmount": 70,
+        "surveyQuestions": [
+            {
+                "surveyQuestion": "How often do you purchase new tech gadgets?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Monthly",
+                    "Every 6 months",
+                    "Annually",
+                    "Rarely"
+                ]
+            },
+            {
+                "surveyQuestion": "Which tech gadgets do you own?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Smartphone",
+                    "Tablet",
+                    "Laptop",
+                    "Smartwatch"
+                ]
+            },
+            {
+                "surveyQuestion": "How satisfied are you with your current tech gadgets?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Very Satisfied",
+                    "Satisfied",
+                    "Neutral",
+                    "Dissatisfied",
+                    "Very Dissatisfied"
+                ]
+            },
+            {
+                "surveyQuestion": "Which brand do you prefer for tech gadgets?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Apple",
+                    "Samsung",
+                    "Microsoft",
+                    "Other"
+                ]
+            },
+            {
+                "surveyQuestion": "What influences your purchase decision for tech gadgets?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Price",
+                    "Brand",
+                    "Features",
+                    "Reviews"
+                ]
+            },
+            {
+                "surveyQuestion": "How likely are you to recommend your favorite tech brand to others?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Very Likely",
+                    "Likely",
+                    "Neutral",
+                    "Unlikely",
+                    "Very Unlikely"
+                ]
+            },
+            {
+                "surveyQuestion": "Which features are most important to you in a tech gadget?",
+                "surveyType": 2,
+                "surveyAnswers": []
+            },
+            {
+                "surveyQuestion": "How do you usually learn about new tech gadgets?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Online Reviews",
+                    "Social Media",
+                    "Friends/Family",
+                    "Advertisements"
+                ]
+            }
+        ]
+    },
+    {
+        "surveyId": "GH56IJ78KL",
+        "surveyCategory": "HOME APPLIANCES",
+        "surveyPaid": true,
+        "surveyAmount": 75,
+        "surveyQuestions": [
+            {
+                "surveyQuestion": "How often do you upgrade your home appliances?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Every year",
+                    "Every 2-3 years",
+                    "Every 4-5 years",
+                    "More than 5 years"
+                ]
+            },
+            {
+                "surveyQuestion": "Which home appliances do you use the most?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Refrigerator",
+                    "Washing Machine",
+                    "Microwave",
+                    "Oven"
+                ]
+            },
+            {
+                "surveyQuestion": "How satisfied are you with your current home appliances?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Very Satisfied",
+                    "Satisfied",
+                    "Neutral",
+                    "Dissatisfied",
+                    "Very Dissatisfied"
+                ]
+            },
+            {
+                "surveyQuestion": "Which brand do you prefer for home appliances?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Samsung",
+                    "LG",
+                    "Whirlpool",
+                    "Other"
+                ]
+            },
+            {
+                "surveyQuestion": "What factors influence your decision to purchase new home appliances?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Price",
+                    "Brand",
+                    "Energy Efficiency",
+                    "Features"
+                ]
+            },
+            {
+                "surveyQuestion": "How important is energy efficiency to you when choosing home appliances?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Very Important",
+                    "Important",
+                    "Neutral",
+                    "Unimportant",
+                    "Very Unimportant"
+                ]
+            },
+            {
+                "surveyQuestion": "How likely are you to recommend your favorite home appliance brand to others?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Very Likely",
+                    "Likely",
+                    "Neutral",
+                    "Unlikely",
+                    "Very Unlikely"
+                ]
+            },
+            {
+                "surveyQuestion": "What improvements would you like to see in your home appliances?",
+                "surveyType": 2,
+                "surveyAnswers": []
+            },
+            {
+                "surveyQuestion": "How do you usually learn about new home appliances?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Online Reviews",
+                    "Social Media",
+                    "Friends/Family",
+                    "Advertisements"
+                ]
+            }
+        ]
+    },
+    {
+        "surveyId": "MN90OP12QR",
+        "surveyCategory": "ONLINE EDUCATION",
+        "surveyPaid": true,
+        "surveyAmount": 80,
+        "surveyQuestions": [
+            {
+                "surveyQuestion": "How often do you take online courses?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Monthly",
+                    "Every 6 months",
+                    "Annually",
+                    "Rarely"
+                ]
+            },
+            {
+                "surveyQuestion": "Which platforms do you use for online education?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Coursera",
+                    "Udemy",
+                    "edX",
+                    "LinkedIn Learning"
+                ]
+            },
+            {
+                "surveyQuestion": "How satisfied are you with the quality of online courses?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Very Satisfied",
+                    "Satisfied",
+                    "Neutral",
+                    "Dissatisfied",
+                    "Very Dissatisfied"
+                ]
+            },
+            {
+                "surveyQuestion": "What motivates you to take online courses?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Career Advancement",
+                    "Personal Interest",
+                    "Skill Development",
+                    "Other"
+                ]
+            },
+            {
+                "surveyQuestion": "How do you prefer to pay for online courses?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Per Course",
+                    "Subscription",
+                    "Company Sponsored",
+                    "Free"
+                ]
+            },
+            {
+                "surveyQuestion": "How likely are you to recommend online education to others?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Very Likely",
+                    "Likely",
+                    "Neutral",
+                    "Unlikely",
+                    "Very Unlikely"
+                ]
+            },
+            {
+                "surveyQuestion": "What improvements would you like to see in online education platforms?",
+                "surveyType": 2,
+                "surveyAnswers": []
+            },
+            {
+                "surveyQuestion": "How do you usually find out about new online courses?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Online Reviews",
+                    "Social Media",
+                    "Friends/Family",
+                    "Advertisements"
+                ]
+            }
+        ]
+    },
+    {
+        "surveyId": "ST34UV56WX",
+        "surveyCategory": "FOOD DELIVERY",
+        "surveyPaid": false,
+        "surveyAmount": 55,
+        "surveyQuestions": [
+            {
+                "surveyQuestion": "How often do you use food delivery services?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Daily",
+                    "Weekly",
+                    "Monthly",
+                    "Rarely",
+                    "Never"
+                ]
+            },
+            {
+                "surveyQuestion": "Which food delivery services do you use?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Uber Eats",
+                    "DoorDash",
+                    "Grubhub",
+                    "Postmates"
+                ]
+            },
+            {
+                "surveyQuestion": "How satisfied are you with the food delivery services you use?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Very Satisfied",
+                    "Satisfied",
+                    "Neutral",
+                    "Dissatisfied",
+                    "Very Dissatisfied"
+                ]
+            },
+            {
+                "surveyQuestion": "What factors influence your choice of food delivery service?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Price",
+                    "Speed",
+                    "Restaurant Options",
+                    "Customer Service"
+                ]
+            },
+            {
+                "surveyQuestion": "Have you ever experienced issues with your food delivery?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Yes",
+                    "No"
+                ]
+            },
+            {
+                "surveyQuestion": "How would you rate the customer service of your preferred food delivery service?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Excellent",
+                    "Good",
+                    "Average",
+                    "Poor",
+                    "Very Poor"
+                ]
+            }
+        ]
+    },
+    {
+        "surveyId": "YZ78AB90CD",
+        "surveyCategory": "FITNESS TRACKERS",
+        "surveyPaid": true,
+        "surveyAmount": 85,
+        "surveyQuestions": [
+            {
+                "surveyQuestion": "How often do you use your fitness tracker?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Daily",
+                    "Weekly",
+                    "Monthly",
+                    "Rarely",
+                    "Never"
+                ]
+            },
+            {
+                "surveyQuestion": "Which brand of fitness tracker do you use?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Fitbit",
+                    "Garmin",
+                    "Apple",
+                    "Samsung"
+                ]
+            },
+            {
+                "surveyQuestion": "How satisfied are you with your fitness tracker?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Very Satisfied",
+                    "Satisfied",
+                    "Neutral",
+                    "Dissatisfied",
+                    "Very Dissatisfied"
+                ]
+            },
+            {
+                "surveyQuestion": "What features are most important to you in a fitness tracker?",
+                "surveyType": 2,
+                "surveyAnswers": []
+            },
+            {
+                "surveyQuestion": "How likely are you to recommend your fitness tracker to others?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Very Likely",
+                    "Likely",
+                    "Neutral",
+                    "Unlikely",
+                    "Very Unlikely"
+                ]
+            },
+            {
+                "surveyQuestion": "What motivates you to use a fitness tracker?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Health Tracking",
+                    "Fitness Goals",
+                    "Data Insights",
+                    "Other"
+                ]
+            },
+            {
+                "surveyQuestion": "How do you prefer to charge your fitness tracker?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Daily",
+                    "Weekly",
+                    "Monthly",
+                    "Other"
+                ]
+            },
+            {
+                "surveyQuestion": "How do you usually learn about new fitness trackers?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Online Reviews",
+                    "Social Media",
+                    "Friends/Family",
+                    "Advertisements"
+                ]
+            }
+        ]
+    },
+    {
+        "surveyId": "EF34GH56IJ",
+        "surveyCategory": "ONLINE SHOPPING",
+        "surveyPaid": true,
+        "surveyAmount": 68,
+        "surveyQuestions": [
+            {
+                "surveyQuestion": "How often do you shop online?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Daily",
+                    "Weekly",
+                    "Monthly",
+                    "Rarely",
+                    "Never"
+                ]
+            },
+            {
+                "surveyQuestion": "Which online shopping platforms do you use?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Amazon",
+                    "eBay",
+                    "Walmart",
+                    "Other"
+                ]
+            },
+            {
+                "surveyQuestion": "How satisfied are you with your online shopping experiences?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Very Satisfied",
+                    "Satisfied",
+                    "Neutral",
+                    "Dissatisfied",
+                    "Very Dissatisfied"
+                ]
+            },
+            {
+                "surveyQuestion": "What factors influence your online shopping decisions?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Price",
+                    "Product Reviews",
+                    "Shipping Speed",
+                    "Return Policy"
+                ]
+            },
+            {
+                "surveyQuestion": "How do you usually pay for your online purchases?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Credit Card",
+                    "PayPal",
+                    "Debit Card",
+                    "Other"
+                ]
+            },
+            {
+                "surveyQuestion": "How likely are you to recommend online shopping to others?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Very Likely",
+                    "Likely",
+                    "Neutral",
+                    "Unlikely",
+                    "Very Unlikely"
+                ]
+            },
+            {
+                "surveyQuestion": "Have you ever experienced issues with your online orders?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Yes",
+                    "No"
+                ]
+            },
+            {
+                "surveyQuestion": "How do you usually learn about new products online?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Online Reviews",
+                    "Social Media",
+                    "Friends/Family",
+                    "Advertisements"
+                ]
+            }
+        ]
+    },
+    {
+        "surveyId": "KL12MN34OP",
+        "surveyCategory": "TRAVEL EXPERIENCE",
+        "surveyPaid": true,
+        "surveyAmount": 72,
+        "surveyQuestions": [
+            {
+                "surveyQuestion": "How often do you travel for leisure?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Monthly",
+                    "Every 6 months",
+                    "Annually",
+                    "Rarely"
+                ]
+            },
+            {
+                "surveyQuestion": "Which type of travel do you prefer?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Domestic",
+                    "International",
+                    "Both"
+                ]
+            },
+            {
+                "surveyQuestion": "How satisfied are you with your recent travel experiences?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Very Satisfied",
+                    "Satisfied",
+                    "Neutral",
+                    "Dissatisfied",
+                    "Very Dissatisfied"
+                ]
+            },
+            {
+                "surveyQuestion": "Which factors influence your travel destination choices?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Cost",
+                    "Culture",
+                    "Activities",
+                    "Weather"
+                ]
+            },
+            {
+                "surveyQuestion": "How do you usually book your travel arrangements?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Online Travel Agencies",
+                    "Direct Booking",
+                    "Travel Agent",
+                    "Other"
+                ]
+            },
+            {
+                "surveyQuestion": "How likely are you to recommend your favorite travel destination to others?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Very Likely",
+                    "Likely",
+                    "Neutral",
+                    "Unlikely",
+                    "Very Unlikely"
+                ]
+            },
+            {
+                "surveyQuestion": "What improvements would you like to see in your travel experiences?",
+                "surveyType": 2,
+                "surveyAnswers": []
+            },
+            {
+                "surveyQuestion": "How do you usually learn about new travel destinations?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Travel Blogs",
+                    "Social Media",
+                    "Friends/Family",
+                    "Advertisements"
+                ]
+            }
+        ]
+    },
+    {
+        "surveyId": "QR56ST78UV",
+        "surveyCategory": "PERSONAL FINANCE",
+        "surveyPaid": false,
+        "surveyAmount": 50,
+        "surveyQuestions": [
+            {
+                "surveyQuestion": "How often do you review your personal finances?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Daily",
+                    "Weekly",
+                    "Monthly",
+                    "Rarely",
+                    "Never"
+                ]
+            },
+            {
+                "surveyQuestion": "Which personal finance tools do you use?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Budgeting Apps",
+                    "Spreadsheets",
+                    "Financial Advisor",
+                    "None"
+                ]
+            },
+            {
+                "surveyQuestion": "How satisfied are you with your current personal finance management?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Very Satisfied",
+                    "Satisfied",
+                    "Neutral",
+                    "Dissatisfied",
+                    "Very Dissatisfied"
+                ]
+            },
+            {
+                "surveyQuestion": "What financial goals are you currently working towards?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Saving for a House",
+                    "Retirement",
+                    "Debt Repayment",
+                    "Other"
+                ]
+            },
+            {
+                "surveyQuestion": "How do you usually learn about personal finance?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Online Resources",
+                    "Books",
+                    "Financial Advisor",
+                    "Friends/Family"
+                ]
+            },
+            {
+                "surveyQuestion": "How likely are you to recommend personal finance management to others?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Very Likely",
+                    "Likely",
+                    "Neutral",
+                    "Unlikely",
+                    "Very Unlikely"
+                ]
+            }
+        ]
+    },
+    {
+        "surveyId": "WX34YZ56AB",
+        "surveyCategory": "FITNESS AND WELLNESS",
+        "surveyPaid": false,
+        "surveyAmount": 60,
+        "surveyQuestions": [
+            {
+                "surveyQuestion": "How often do you exercise?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Daily",
+                    "Weekly",
+                    "Monthly",
+                    "Rarely",
+                    "Never"
+                ]
+            },
+            {
+                "surveyQuestion": "Which type of exercise do you prefer?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Cardio",
+                    "Strength Training",
+                    "Yoga",
+                    "Other"
+                ]
+            },
+            {
+                "surveyQuestion": "How satisfied are you with your current fitness routine?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Very Satisfied",
+                    "Satisfied",
+                    "Neutral",
+                    "Dissatisfied",
+                    "Very Dissatisfied"
+                ]
+            },
+            {
+                "surveyQuestion": "What motivates you to exercise?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Health",
+                    "Appearance",
+                    "Stress Relief",
+                    "Other"
+                ]
+            },
+            {
+                "surveyQuestion": "How do you usually track your fitness progress?",
+                "surveyType": 3,
+                "surveyAnswers": [
+                    "Fitness Tracker",
+                    "App",
+                    "Manual Logging",
+                    "Don't Track"
+                ]
+            },
+            {
+                "surveyQuestion": "How likely are you to recommend your fitness routine to others?",
+                "surveyType": 1,
+                "surveyAnswers": [
+                    "Very Likely",
+                    "Likely",
+                    "Neutral",
+                    "Unlikely",
+                    "Very Unlikely"
+                ]
+            },
+            {
+                "surveyQuestion": "What improvements would you like to see in your fitness routine?",
+                "surveyType": 2,
+                "surveyAnswers": []
+            }
+        ]
+    },
+    {
       "surveyId": "DU6UAI7GDK",
       "surveyCategory": "KFC",
       "surveyPaid": true,
