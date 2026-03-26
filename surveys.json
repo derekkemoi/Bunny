@@ -3,620 +3,375 @@
   "surveys": [
     {
       "surveyId": "1",
-      "surveyCategory": "Quiz Mestar Surveys",
+      "surveyCategory": "Bunny Surveys",
       "surveyPaid": false,
       "surveyAmount": 45,
       "surveyQuestions": [
-        {
-          "surveyQuestion": "How did you hear about us?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "YouTube",
-            "Twitter/X",
-            "Instagram",
-            "TikTok",
-            "Friend",
-            "Our Website",
-            "Google"
-          ]
-        },
-        {
-          "surveyQuestion": "We partner with thousands of brands and AI-powered companies to help you earn. Your honest answers help shape the future of products and services.",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "I understand",
-            "Okay"
-          ]
-        },
-        {
-          "surveyQuestion": "Survey Money allows you to earn from every survey. Payments are processed once you reach the minimum withdrawal threshold.",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Looks Good",
-            "I understand"
-          ]
-        },
-        {
-          "surveyQuestion": "You may be disqualified from some surveys if you don't match the target audience criteria (age, location, tech usage, etc.).",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Looks Good",
-            "I understand"
-          ]
-        },
-        {
-          "surveyQuestion": "Every day you get access to multiple surveys. Upgrade your account in profile for unlimited access.",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Looks Good",
-            "I understand"
-          ]
-        },
-        {
-          "surveyQuestion": "Once you collect enough earnings, you can submit a withdrawal request for processing.",
-          "surveyType": 2,
-          "surveyAnswers": []
-        },
-        {
-          "surveyQuestion": "Refer friends and earn Ksh 40 for every survey they complete successfully.",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Looks Good",
-            "I understand"
-          ]
-        }
+        {"surveyQuestion": "How did you hear about us?", "surveyType": 1, "surveyAnswers": ["YouTube", "Twitter/X", "Instagram", "TikTok", "Friend", "Our Website", "Google"]},
+        {"surveyQuestion": "We partner with thousands of brands and AI-powered companies to help you earn. Your honest answers help shape future products.", "surveyType": 1, "surveyAnswers": ["I understand", "Okay"]},
+        {"surveyQuestion": "Survey Money pays you for every completed survey. Payments are processed once you reach the withdrawal threshold.", "surveyType": 1, "surveyAnswers": ["Looks Good", "I understand"]},
+        {"surveyQuestion": "You may be disqualified from surveys if you don't match the target audience.", "surveyType": 1, "surveyAnswers": ["Looks Good", "I understand"]},
+        {"surveyQuestion": "Refer a friend and earn Ksh 40 for every survey they successfully complete.", "surveyType": 1, "surveyAnswers": ["Looks Good", "I understand"]}
       ]
     },
     {
-      "surveyId": "AI2026X1",
-      "surveyCategory": "Artificial Intelligence",
+      "surveyId": "AI2026_01",
+      "surveyCategory": "Artificial Intelligence Usage",
       "surveyPaid": true,
-      "surveyAmount": 85,
+      "surveyAmount": 88,
       "surveyQuestions": [
-        {
-          "surveyQuestion": "How often do you use AI tools like ChatGPT, Grok, Claude, or Gemini?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Daily",
-            "Several times a week",
-            "Weekly",
-            "Monthly",
-            "Rarely",
-            "Never"
-          ]
-        },
-        {
-          "surveyQuestion": "Which AI tools have you used in the past 6 months? (Select all that apply)",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "ChatGPT",
-            "Grok (xAI)",
-            "Claude",
-            "Gemini",
-            "Midjourney / DALL-E",
-            "Perplexity",
-            "Other"
-          ]
-        },
-        {
-          "surveyQuestion": "What do you mainly use AI for?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Writing & content creation",
-            "Coding & programming",
-            "Research & learning",
-            "Image/video generation",
-            "Productivity & task automation",
-            "Entertainment"
-          ]
-        },
-        {
-          "surveyQuestion": "How satisfied are you with current AI chatbots overall?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Very Satisfied",
-            "Satisfied",
-            "Neutral",
-            "Dissatisfied",
-            "Very Dissatisfied"
-          ]
-        },
-        {
-          "surveyQuestion": "Rate your concern about AI replacing human jobs on a scale of 1-5",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "1",
-            "2",
-            "3",
-            "4",
-            "5"
-          ]
-        },
-        {
-          "surveyQuestion": "What improvements would you like to see in AI tools?",
-          "surveyType": 2,
-          "surveyAnswers": []
-        },
-        {
-          "surveyQuestion": "Would you pay for a premium AI subscription?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Yes, definitely",
-            "Maybe",
-            "No"
-          ]
-        }
+        {"surveyQuestion": "How often do you use AI tools like ChatGPT, Grok, Claude or Gemini?", "surveyType": 1, "surveyAnswers": ["Daily", "Several times a week", "Weekly", "Monthly", "Rarely", "Never"]},
+        {"surveyQuestion": "Which AI tools have you used recently? (Select all that apply)", "surveyType": 3, "surveyAnswers": ["ChatGPT", "Grok (xAI)", "Claude", "Gemini", "Midjourney/DALL-E", "Perplexity"]},
+        {"surveyQuestion": "What do you mainly use AI for? (Select all that apply)", "surveyType": 3, "surveyAnswers": ["Writing & content creation", "Coding help", "Research & learning", "Image/video generation", "Productivity & automation", "Entertainment"]},
+        {"surveyQuestion": "How satisfied are you with current AI chatbots?", "surveyType": 1, "surveyAnswers": ["Very Satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very Dissatisfied"]},
+        {"surveyQuestion": "On a scale of 1-5, how concerned are you about AI replacing jobs?", "surveyType": 1, "surveyAnswers": ["1", "2", "3", "4", "5"]},
+        {"surveyQuestion": "What one improvement would you like in AI tools?", "surveyType": 2, "surveyAnswers": []}
       ]
     },
     {
-      "surveyId": "TECHGAD2026",
-      "surveyCategory": "Tech Gadgets",
+      "surveyId": "TECHGADGET_02",
+      "surveyCategory": "Tech Gadgets & Wearables",
+      "surveyPaid": true,
+      "surveyAmount": 82,
+      "surveyQuestions": [
+        {"surveyQuestion": "How often do you buy new tech gadgets?", "surveyType": 1, "surveyAnswers": ["Every 3-6 months", "Every year", "Every 2 years", "Rarely"]},
+        {"surveyQuestion": "Which gadgets do you currently own? (Select all that apply)", "surveyType": 3, "surveyAnswers": ["Flagship Smartphone", "Wireless Earbuds", "Smartwatch", "Tablet", "VR/AR Headset", "Portable Power Bank"]},
+        {"surveyQuestion": "What is the most important factor when buying a gadget?", "surveyType": 1, "surveyAnswers": ["Performance & Speed", "Battery Life", "Camera Quality", "Design", "Price", "AI Features"]},
+        {"surveyQuestion": "How likely are you to buy AI-powered gadgets in 2026?", "surveyType": 1, "surveyAnswers": ["Very Likely", "Likely", "Neutral", "Unlikely", "Very Unlikely"]},
+        {"surveyQuestion": "What improvements would you like in future gadgets?", "surveyType": 2, "surveyAnswers": []}
+      ]
+    },
+    {
+      "surveyId": "SMARTHOME_03",
+      "surveyCategory": "Smart Home & IoT",
       "surveyPaid": true,
       "surveyAmount": 78,
       "surveyQuestions": [
-        {
-          "surveyQuestion": "How often do you buy new tech gadgets?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Every 3-6 months",
-            "Every year",
-            "Every 2 years",
-            "Rarely",
-            "Never"
-          ]
-        },
-        {
-          "surveyQuestion": "Which gadgets do you currently own? (Select all that apply)",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Smartphone (flagship)",
-            "Wireless earbuds",
-            "Smartwatch",
-            "Tablet",
-            "Laptop",
-            "Portable charger / Power bank",
-            "VR/AR headset"
-          ]
-        },
-        {
-          "surveyQuestion": "What is the most important factor when buying a new gadget?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Performance & Speed",
-            "Battery Life",
-            "Camera Quality",
-            "Design & Build",
-            "Price",
-            "Brand Reputation"
-          ]
-        },
-        {
-          "surveyQuestion": "How likely are you to buy an AI-powered gadget in 2026?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Very Likely",
-            "Likely",
-            "Neutral",
-            "Unlikely",
-            "Very Unlikely"
-          ]
-        },
-        {
-          "surveyQuestion": "What improvements would you like to see in future gadgets?",
-          "surveyType": 2,
-          "surveyAnswers": []
-        }
+        {"surveyQuestion": "Do you own any smart home devices?", "surveyType": 1, "surveyAnswers": ["Yes, several", "Yes, 1-2 devices", "No, but planning", "No"]},
+        {"surveyQuestion": "Which smart devices do you use? (Select all that apply)", "surveyType": 3, "surveyAnswers": ["Smart Speaker", "Smart Lights", "Smart Thermostat", "Security Camera", "Robot Vacuum", "Smart TV"]},
+        {"surveyQuestion": "How satisfied are you with your smart home setup?", "surveyType": 1, "surveyAnswers": ["Very Satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very Dissatisfied"]},
+        {"surveyQuestion": "What concerns you most about smart home devices?", "surveyType": 1, "surveyAnswers": ["Privacy & Security", "Reliability", "Cost", "Ease of Use", "None"]},
+        {"surveyQuestion": "What new smart home feature would you like?", "surveyType": 2, "surveyAnswers": []}
       ]
     },
     {
-      "surveyId": "SMART2026",
-      "surveyCategory": "Smart Home",
-      "surveyPaid": true,
-      "surveyAmount": 72,
-      "surveyQuestions": [
-        {
-          "surveyQuestion": "Do you own any smart home devices?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Yes, several",
-            "Yes, 1-2 devices",
-            "No, but planning to buy",
-            "No"
-          ]
-        },
-        {
-          "surveyQuestion": "Which smart home devices do you use? (Select all that apply)",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Smart Speaker (Alexa/Google Home)",
-            "Smart Lights",
-            "Smart Thermostat",
-            "Smart Security Camera",
-            "Smart TV",
-            "Robot Vacuum"
-          ]
-        },
-        {
-          "surveyQuestion": "How satisfied are you with your smart home setup?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Very Satisfied",
-            "Satisfied",
-            "Neutral",
-            "Dissatisfied",
-            "Very Dissatisfied"
-          ]
-        },
-        {
-          "surveyQuestion": "What concerns you most about smart home devices?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Privacy & Data Security",
-            "Reliability & Connectivity",
-            "Cost",
-            "Complexity",
-            "None"
-          ]
-        },
-        {
-          "surveyQuestion": "What new smart home feature would you like to see?",
-          "surveyType": 2,
-          "surveyAnswers": []
-        }
-      ]
-    },
-    {
-      "surveyId": "STREAM2026",
+      "surveyId": "STREAMING_04",
       "surveyCategory": "Streaming Services",
       "surveyPaid": false,
       "surveyAmount": 48,
       "surveyQuestions": [
-        {
-          "surveyQuestion": "How many streaming services do you subscribe to?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "1",
-            "2",
-            "3",
-            "4 or more",
-            "None"
-          ]
-        },
-        {
-          "surveyQuestion": "Which streaming platforms do you use? (Select all that apply)",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Netflix",
-            "YouTube Premium",
-            "Disney+ / Hulu",
-            "Amazon Prime Video",
-            "Spotify",
-            "Apple TV+",
-            "TikTok"
-          ]
-        },
-        {
-          "surveyQuestion": "How satisfied are you with current streaming services?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Very Satisfied",
-            "Satisfied",
-            "Neutral",
-            "Dissatisfied",
-            "Very Dissatisfied"
-          ]
-        },
-        {
-          "surveyQuestion": "What improvements would you like in streaming platforms?",
-          "surveyType": 2,
-          "surveyAnswers": []
-        }
+        {"surveyQuestion": "How many streaming services do you subscribe to?", "surveyType": 1, "surveyAnswers": ["1", "2", "3", "4 or more", "None"]},
+        {"surveyQuestion": "Which platforms do you use? (Select all that apply)", "surveyType": 3, "surveyAnswers": ["Netflix", "YouTube Premium", "Disney+", "Amazon Prime", "Spotify", "TikTok"]},
+        {"surveyQuestion": "How satisfied are you with streaming services?", "surveyType": 1, "surveyAnswers": ["Very Satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very Dissatisfied"]},
+        {"surveyQuestion": "What improvements would you like in streaming?", "surveyType": 2, "surveyAnswers": []}
       ]
     },
     {
-      "surveyId": "EV2026",
+      "surveyId": "EV_05",
       "surveyCategory": "Electric Vehicles",
       "surveyPaid": true,
-      "surveyAmount": 82,
+      "surveyAmount": 85,
       "surveyQuestions": [
-        {
-          "surveyQuestion": "Are you considering buying an electric vehicle in the next 2 years?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Yes, definitely",
-            "Maybe",
-            "No",
-            "Already own one"
-          ]
-        },
-        {
-          "surveyQuestion": "What factors influence your EV purchase decision? (Select all that apply)",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Environmental impact",
-            "Fuel cost savings",
-            "Government incentives",
-            "Charging infrastructure",
-            "Performance",
-            "Brand & Design"
-          ]
-        },
-        {
-          "surveyQuestion": "What is your biggest concern about electric vehicles?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Charging time",
-            "Battery range",
-            "Charging station availability",
-            "High upfront cost",
-            "None"
-          ]
-        },
-        {
-          "surveyQuestion": "Rate your excitement about self-driving technology on a scale of 1-5",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "1",
-            "2",
-            "3",
-            "4",
-            "5"
-          ]
-        }
+        {"surveyQuestion": "Are you considering buying an electric vehicle soon?", "surveyType": 1, "surveyAnswers": ["Yes, definitely", "Maybe", "No", "Already own one"]},
+        {"surveyQuestion": "What would influence your EV purchase? (Select all that apply)", "surveyType": 3, "surveyAnswers": ["Environmental benefits", "Lower running costs", "Government incentives", "Charging infrastructure", "Performance"]},
+        {"surveyQuestion": "Biggest concern about EVs?", "surveyType": 1, "surveyAnswers": ["Charging time", "Battery range", "Charging stations", "High price", "None"]},
+        {"surveyQuestion": "How excited are you about self-driving tech? (1-5)", "surveyType": 1, "surveyAnswers": ["1", "2", "3", "4", "5"]}
       ]
     },
     {
-      "surveyId": "SOCIAL2026",
-      "surveyCategory": "Social Media Trends",
+      "surveyId": "CRYPTO_06",
+      "surveyCategory": "Cryptocurrency & Blockchain",
+      "surveyPaid": true,
+      "surveyAmount": 72,
+      "surveyQuestions": [
+        {"surveyQuestion": "Have you ever owned cryptocurrency?", "surveyType": 1, "surveyAnswers": ["Yes, currently own", "Yes, but sold", "No but interested", "No"]},
+        {"surveyQuestion": "Which cryptocurrencies have you used? (Select all that apply)", "surveyType": 3, "surveyAnswers": ["Bitcoin", "Ethereum", "Solana", "USDT", "Other"]},
+        {"surveyQuestion": "Main reason for using crypto?", "surveyType": 1, "surveyAnswers": ["Investment", "Payments", "DeFi", "Curiosity"]},
+        {"surveyQuestion": "What concerns you about crypto?", "surveyType": 2, "surveyAnswers": []}
+      ]
+    },
+    {
+      "surveyId": "MENTALHEALTH_07",
+      "surveyCategory": "Mental Health & Wellness Apps",
+      "surveyPaid": true,
+      "surveyAmount": 80,
+      "surveyQuestions": [
+        {"surveyQuestion": "How often do you use mental health apps?", "surveyType": 1, "surveyAnswers": ["Daily", "Several times a week", "Occasionally", "Rarely", "Never"]},
+        {"surveyQuestion": "Which apps have you tried? (Select all that apply)", "surveyType": 3, "surveyAnswers": ["Headspace", "Calm", "BetterHelp", "Journaling apps", "Fitness apps"]},
+        {"surveyQuestion": "Rate your current mental well-being (1-5)", "surveyType": 1, "surveyAnswers": ["1", "2", "3", "4", "5"]},
+        {"surveyQuestion": "What feature would you like in a mental health app?", "surveyType": 2, "surveyAnswers": []}
+      ]
+    },
+    {
+      "surveyId": "REMOTEWORK_08",
+      "surveyCategory": "Remote & Hybrid Work",
       "surveyPaid": false,
-      "surveyAmount": 42,
+      "surveyAmount": 50,
       "surveyQuestions": [
-        {
-          "surveyQuestion": "Which social media platform do you use the most?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Instagram",
-            "TikTok",
-            "Twitter/X",
-            "Facebook",
-            "YouTube",
-            "LinkedIn",
-            "None"
-          ]
-        },
-        {
-          "surveyQuestion": "How many hours per day do you spend on social media?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Less than 1 hour",
-            "1-2 hours",
-            "2-4 hours",
-            "More than 4 hours"
-          ]
-        },
-        {
-          "surveyQuestion": "What do you use social media for? (Select all that apply)",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Connecting with friends/family",
-            "Entertainment & memes",
-            "News & current events",
-            "Learning new things",
-            "Promoting business/content"
-          ]
-        }
+        {"surveyQuestion": "Your current work arrangement?", "surveyType": 1, "surveyAnswers": ["Fully remote", "Hybrid", "Office only", "Student/Not employed"]},
+        {"surveyQuestion": "Daily work tools? (Select all that apply)", "surveyType": 3, "surveyAnswers": ["Zoom/Meet", "Slack/Teams", "Notion/Trello", "Google Workspace", "Microsoft 365"]},
+        {"surveyQuestion": "Biggest remote work challenge?", "surveyType": 2, "surveyAnswers": []}
       ]
     },
     {
-      "surveyId": "CRYPTO2026",
-      "surveyCategory": "Cryptocurrency",
+      "surveyId": "SUSTAINABILITY_09",
+      "surveyCategory": "Sustainability & Green Living",
       "surveyPaid": true,
       "surveyAmount": 68,
       "surveyQuestions": [
-        {
-          "surveyQuestion": "Have you ever invested in or owned cryptocurrency?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Yes, currently own",
-            "Yes, but sold",
-            "No, but interested",
-            "No"
-          ]
-        },
-        {
-          "surveyQuestion": "Which cryptocurrencies have you used or own? (Select all that apply)",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Bitcoin",
-            "Ethereum",
-            "Solana",
-            "USDT / Stablecoins",
-            "Other"
-          ]
-        },
-        {
-          "surveyQuestion": "What is your main reason for using crypto?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Investment",
-            "Payments & transfers",
-            "DeFi / Yield farming",
-            "NFTs / Digital collectibles",
-            "Curiosity"
-          ]
-        }
+        {"surveyQuestion": "How important is sustainability to you when buying products?", "surveyType": 1, "surveyAnswers": ["Very Important", "Important", "Neutral", "Not Important"]},
+        {"surveyQuestion": "Which eco-friendly actions do you take? (Select all that apply)", "surveyType": 3, "surveyAnswers": ["Recycling", "Using reusable bags", "Reducing plastic", "Energy-saving devices", "Buying local"]},
+        {"surveyQuestion": "Would you pay more for sustainable products?", "surveyType": 1, "surveyAnswers": ["Yes", "Maybe", "No"]},
+        {"surveyQuestion": "What sustainability improvement would you like to see in Kenya?", "surveyType": 2, "surveyAnswers": []}
       ]
     },
     {
-      "surveyId": "MENTAL2026",
-      "surveyCategory": "Mental Health & Wellness Apps",
-      "surveyPaid": true,
-      "surveyAmount": 75,
-      "surveyQuestions": [
-        {
-          "surveyQuestion": "How often do you use mental health or wellness apps?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Daily",
-            "Several times a week",
-            "Occasionally",
-            "Rarely",
-            "Never"
-          ]
-        },
-        {
-          "surveyQuestion": "Which wellness apps have you tried? (Select all that apply)",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Headspace",
-            "Calm",
-            "BetterHelp",
-            "Fitbit / Health apps",
-            "Journaling apps",
-            "None"
-          ]
-        },
-        {
-          "surveyQuestion": "On a scale of 1-5, how would you rate your current mental well-being?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "1",
-            "2",
-            "3",
-            "4",
-            "5"
-          ]
-        },
-        {
-          "surveyQuestion": "What features would you like in a mental health app?",
-          "surveyType": 2,
-          "surveyAnswers": []
-        }
-      ]
-    },
-    {
-      "surveyId": "REMOTE2026",
-      "surveyCategory": "Remote Work & Productivity",
+      "surveyId": "KFC_10",
+      "surveyCategory": "KFC Experience",
       "surveyPaid": true,
       "surveyAmount": 65,
       "surveyQuestions": [
-        {
-          "surveyQuestion": "Do you currently work remotely or hybrid?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Fully remote",
-            "Hybrid",
-            "Office only",
-            "Student / Not working"
-          ]
-        },
-        {
-          "surveyQuestion": "Which tools do you use daily for work? (Select all that apply)",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Zoom / Google Meet",
-            "Slack / Teams",
-            "Notion / Trello",
-            "Google Workspace",
-            "Microsoft 365"
-          ]
-        },
-        {
-          "surveyQuestion": "What is your biggest challenge with remote work?",
-          "surveyType": 2,
-          "surveyAnswers": []
-        }
+        {"surveyQuestion": "How often do you visit KFC?", "surveyType": 1, "surveyAnswers": ["Weekly", "Monthly", "Rarely", "First time"]},
+        {"surveyQuestion": "What do you usually order? (Select all that apply)", "surveyType": 3, "surveyAnswers": ["Fried Chicken", "Burgers", "Fries", "Drinks", "Desserts"]},
+        {"surveyQuestion": "Rate your satisfaction with KFC (1-5)", "surveyType": 1, "surveyAnswers": ["1", "2", "3", "4", "5"]},
+        {"surveyQuestion": "What improvements would you like at KFC?", "surveyType": 2, "surveyAnswers": []}
       ]
     },
     {
-      "surveyId": "NAIVAS2026",
+      "surveyId": "NAIVAS_11",
       "surveyCategory": "Naivas Supermarket",
       "surveyPaid": false,
-      "surveyAmount": 40,
+      "surveyAmount": 42,
       "surveyQuestions": [
-        {
-          "surveyQuestion": "How often do you shop at Naivas Supermarket?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Daily",
-            "Weekly",
-            "Monthly",
-            "Rarely",
-            "First time"
-          ]
-        },
-        {
-          "surveyQuestion": "What do you usually buy at Naivas? (Select all that apply)",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Groceries",
-            "Household items",
-            "Electronics",
-            "Clothing & Fashion",
-            "Fresh produce"
-          ]
-        },
-        {
-          "surveyQuestion": "Rate your overall satisfaction with Naivas on a scale of 1-5",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "1",
-            "2",
-            "3",
-            "4",
-            "5"
-          ]
-        },
-        {
-          "surveyQuestion": "What improvements would you like to see at Naivas?",
-          "surveyType": 2,
-          "surveyAnswers": []
-        }
+        {"surveyQuestion": "How often do you shop at Naivas?", "surveyType": 1, "surveyAnswers": ["Daily", "Weekly", "Monthly", "Rarely"]},
+        {"surveyQuestion": "What do you usually buy? (Select all that apply)", "surveyType": 3, "surveyAnswers": ["Groceries", "Household items", "Fresh produce", "Electronics", "Clothing"]},
+        {"surveyQuestion": "Rate your satisfaction with Naivas (1-5)", "surveyType": 1, "surveyAnswers": ["1", "2", "3", "4", "5"]},
+        {"surveyQuestion": "What improvement would you like at Naivas?", "surveyType": 2, "surveyAnswers": []}
       ]
     },
     {
-      "surveyId": "KFC2026",
-      "surveyCategory": "KFC Experience",
+      "surveyId": "SAFARICOM_12",
+      "surveyCategory": "Safaricom Services",
+      "surveyPaid": true,
+      "surveyAmount": 75,
+      "surveyQuestions": [
+        {"surveyQuestion": "How long have you been using Safaricom?", "surveyType": 1, "surveyAnswers": ["Less than 1 year", "1-3 years", "3-5 years", "More than 5 years"]},
+        {"surveyQuestion": "Which Safaricom services do you use? (Select all that apply)", "surveyType": 3, "surveyAnswers": ["Mobile Calls/SMS", "Data/Broadband", "M-PESA", "Home Fibre"]},
+        {"surveyQuestion": "Rate your overall satisfaction (1-5)", "surveyType": 1, "surveyAnswers": ["1", "2", "3", "4", "5"]},
+        {"surveyQuestion": "What improvements would you like from Safaricom?", "surveyType": 2, "surveyAnswers": []}
+      ]
+    },
+    {
+      "surveyId": "SOCIALMEDIA_13",
+      "surveyCategory": "Social Media Trends",
+      "surveyPaid": false,
+      "surveyAmount": 47,
+      "surveyQuestions": [
+        {"surveyQuestion": "Which social platform do you use most?", "surveyType": 1, "surveyAnswers": ["Instagram", "TikTok", "Twitter/X", "Facebook", "YouTube", "LinkedIn"]},
+        {"surveyQuestion": "Hours per day on social media?", "surveyType": 1, "surveyAnswers": ["Less than 1", "1-2", "2-4", "More than 4"]},
+        {"surveyQuestion": "What do you use social media for? (Select all that apply)", "surveyType": 3, "surveyAnswers": ["Connecting with friends", "Entertainment", "News", "Learning", "Business"]},
+        {"surveyQuestion": "Any concerns about social media?", "surveyType": 2, "surveyAnswers": []}
+      ]
+    },
+    {
+      "surveyId": "ONLINESHOP_14",
+      "surveyCategory": "Online Shopping Habits",
       "surveyPaid": true,
       "surveyAmount": 70,
       "surveyQuestions": [
-        {
-          "surveyQuestion": "How often do you visit KFC?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Weekly",
-            "Monthly",
-            "Rarely",
-            "First time"
-          ]
-        },
-        {
-          "surveyQuestion": "What do you usually order at KFC? (Select all that apply)",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Fried Chicken",
-            "Burgers",
-            "Fries",
-            "Drinks",
-            "Desserts"
-          ]
-        },
-        {
-          "surveyQuestion": "Rate your overall satisfaction with KFC on a scale of 1-5",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "1",
-            "2",
-            "3",
-            "4",
-            "5"
-          ]
-        },
-        {
-          "surveyQuestion": "What improvements would you like at KFC?",
-          "surveyType": 2,
-          "surveyAnswers": []
-        }
+        {"surveyQuestion": "How often do you shop online?", "surveyType": 1, "surveyAnswers": ["Daily", "Weekly", "Monthly", "Rarely"]},
+        {"surveyQuestion": "Which platforms do you use? (Select all that apply)", "surveyType": 3, "surveyAnswers": ["Jumia", "Kilimall", "Amazon", "eBay", "Local shops online"]},
+        {"surveyQuestion": "What influences your online purchase? (Select all that apply)", "surveyType": 3, "surveyAnswers": ["Price", "Reviews", "Shipping speed", "Return policy"]},
+        {"surveyQuestion": "Biggest issue with online shopping?", "surveyType": 2, "surveyAnswers": []}
+      ]
+    },
+    {
+      "surveyId": "FITNESS_15",
+      "surveyCategory": "Fitness & Wearables",
+      "surveyPaid": true,
+      "surveyAmount": 65,
+      "surveyQuestions": [
+        {"surveyQuestion": "How often do you exercise?", "surveyType": 1, "surveyAnswers": ["Daily", "Several times a week", "Weekly", "Rarely"]},
+        {"surveyQuestion": "Do you use a fitness tracker or app?", "surveyType": 1, "surveyAnswers": ["Yes, daily", "Yes, occasionally", "No"]},
+        {"surveyQuestion": "What motivates you to stay fit? (Select all that apply)", "surveyType": 3, "surveyAnswers": ["Health", "Appearance", "Stress relief", "Competition"]},
+        {"surveyQuestion": "What improvement would you like in fitness apps?", "surveyType": 2, "surveyAnswers": []}
+      ]
+    },
+    {
+      "surveyId": "EDUCATION_16",
+      "surveyCategory": "Online Education & Learning",
+      "surveyPaid": true,
+      "surveyAmount": 68,
+      "surveyQuestions": [
+        {"surveyQuestion": "How often do you take online courses?", "surveyType": 1, "surveyAnswers": ["Monthly", "Every few months", "Annually", "Rarely"]},
+        {"surveyQuestion": "Which platforms do you use? (Select all that apply)", "surveyType": 3, "surveyAnswers": ["Coursera", "Udemy", "YouTube", "LinkedIn Learning", "Local platforms"]},
+        {"surveyQuestion": "What motivates online learning? (Select all that apply)", "surveyType": 3, "surveyAnswers": ["Career growth", "Skill development", "Personal interest"]},
+        {"surveyQuestion": "What improvements in online education?", "surveyType": 2, "surveyAnswers": []}
+      ]
+    },
+    {
+      "surveyId": "FOODDELIVERY_17",
+      "surveyCategory": "Food Delivery Apps",
+      "surveyPaid": false,
+      "surveyAmount": 45,
+      "surveyQuestions": [
+        {"surveyQuestion": "How often do you use food delivery services?", "surveyType": 1, "surveyAnswers": ["Daily", "Weekly", "Monthly", "Rarely"]},
+        {"surveyQuestion": "Which apps do you use? (Select all that apply)", "surveyType": 3, "surveyAnswers": ["Glovo", "Uber Eats", "Bolt Food", "Others"]},
+        {"surveyQuestion": "What influences your choice of delivery app?", "surveyType": 1, "surveyAnswers": ["Speed", "Price", "Restaurant options", "Customer service"]},
+        {"surveyQuestion": "Any issues with food delivery recently?", "surveyType": 2, "surveyAnswers": []}
+      ]
+    },
+    {
+      "surveyId": "GAMING_18",
+      "surveyCategory": "Gaming Habits",
+      "surveyPaid": true,
+      "surveyAmount": 75,
+      "surveyQuestions": [
+        {"surveyQuestion": "How often do you play video games?", "surveyType": 1, "surveyAnswers": ["Daily", "Weekly", "Monthly", "Rarely"]},
+        {"surveyQuestion": "Preferred gaming platform? (Select all that apply)", "surveyType": 3, "surveyAnswers": ["Mobile", "PC", "Console", "Cloud gaming"]},
+        {"surveyQuestion": "What type of games do you prefer?", "surveyType": 1, "surveyAnswers": ["Action", "Adventure", "Sports", "Puzzle", "Battle Royale"]},
+        {"surveyQuestion": "What improvements in games would you like?", "surveyType": 2, "surveyAnswers": []}
+      ]
+    },
+    {
+      "surveyId": "HEALTHAPPS_19",
+      "surveyCategory": "Health & Telemedicine Apps",
+      "surveyPaid": true,
+      "surveyAmount": 72,
+      "surveyQuestions": [
+        {"surveyQuestion": "Have you used any health or telemedicine app?", "surveyType": 1, "surveyAnswers": ["Yes, regularly", "Yes, occasionally", "No"]},
+        {"surveyQuestion": "What health features do you want in apps? (Select all that apply)", "surveyType": 3, "surveyAnswers": ["Symptom checker", "Doctor consultation", "Medication reminder", "Fitness tracking"]},
+        {"surveyQuestion": "How likely are you to use telemedicine in future?", "surveyType": 1, "surveyAnswers": ["Very Likely", "Likely", "Neutral", "Unlikely"]},
+        {"surveyQuestion": "Suggestions for health apps in Kenya?", "surveyType": 2, "surveyAnswers": []}
+      ]
+    },
+    {
+      "surveyId": "TRAVEL_20",
+      "surveyCategory": "Travel & Tourism",
+      "surveyPaid": true,
+      "surveyAmount": 60,
+      "surveyQuestions": [
+        {"surveyQuestion": "How often do you travel for leisure?", "surveyType": 1, "surveyAnswers": ["Monthly", "Every 6 months", "Annually", "Rarely"]},
+        {"surveyQuestion": "Preferred travel type? (Select all that apply)", "surveyType": 3, "surveyAnswers": ["Domestic", "International", "Adventure", "Beach"]},
+        {"surveyQuestion": "How do you book travel?", "surveyType": 1, "surveyAnswers": ["Online agencies", "Direct", "Travel agent"]},
+        {"surveyQuestion": "What improvements in local tourism?", "surveyType": 2, "surveyAnswers": []}
+      ]
+    },
+    {
+      "surveyId": "PERSONALFINANCE_21",
+      "surveyCategory": "Personal Finance & Budgeting",
+      "surveyPaid": false,
+      "surveyAmount": 52,
+      "surveyQuestions": [
+        {"surveyQuestion": "How often do you review your finances?", "surveyType": 1, "surveyAnswers": ["Daily", "Weekly", "Monthly", "Rarely"]},
+        {"surveyQuestion": "Which tools do you use? (Select all that apply)", "surveyType": 3, "surveyAnswers": ["M-PESA", "Banking apps", "Budgeting apps", "Spreadsheets"]},
+        {"surveyQuestion": "Biggest financial goal right now?", "surveyType": 2, "surveyAnswers": []}
+      ]
+    },
+    {
+      "surveyId": "CLOTHING_22",
+      "surveyCategory": "Fashion & Clothing Brands",
+      "surveyPaid": true,
+      "surveyAmount": 58,
+      "surveyQuestions": [
+        {"surveyQuestion": "How often do you buy clothes online?", "surveyType": 1, "surveyAnswers": ["Weekly", "Monthly", "Every few months", "Rarely"]},
+        {"surveyQuestion": "Preferred clothing brands? (Select all that apply)", "surveyType": 3, "surveyAnswers": ["Nike", "Adidas", "H&M", "Local brands", "Others"]},
+        {"surveyQuestion": "What influences clothing purchase?", "surveyType": 1, "surveyAnswers": ["Price", "Brand", "Trends", "Quality"]},
+        {"surveyQuestion": "Desired improvements in online fashion shopping?", "surveyType": 2, "surveyAnswers": []}
+      ]
+    },
+    {
+      "surveyId": "PETS_23",
+      "surveyCategory": "Pet Care",
+      "surveyPaid": false,
+      "surveyAmount": 40,
+      "surveyQuestions": [
+        {"surveyQuestion": "Do you own a pet?", "surveyType": 1, "surveyAnswers": ["Yes", "No"]},
+        {"surveyQuestion": "What type of pet? (Select all that apply)", "surveyType": 3, "surveyAnswers": ["Dog", "Cat", "Bird", "Fish", "Other"]},
+        {"surveyQuestion": "How satisfied with pet products available?", "surveyType": 1, "surveyAnswers": ["Very Satisfied", "Satisfied", "Neutral", "Dissatisfied"]},
+        {"surveyQuestion": "Suggestions for pet care in Kenya?", "surveyType": 2, "surveyAnswers": []}
+      ]
+    },
+    {
+      "surveyId": "ROBOTICS_24",
+      "surveyCategory": "Robotics & Future Tech",
+      "surveyPaid": true,
+      "surveyAmount": 90,
+      "surveyQuestions": [
+        {"surveyQuestion": "How familiar are you with robotics?", "surveyType": 1, "surveyAnswers": ["Not at all", "Somewhat", "Very familiar", "Expert"]},
+        {"surveyQuestion": "Interested in which robots? (Select all that apply)", "surveyType": 3, "surveyAnswers": ["Home assistants", "Industrial", "Medical", "Educational"]},
+        {"surveyQuestion": "Concerns about robotics future?", "surveyType": 2, "surveyAnswers": []}
+      ]
+    },
+    {
+      "surveyId": "HOTEL_25",
+      "surveyCategory": "Hotel & Hospitality",
+      "surveyPaid": true,
+      "surveyAmount": 62,
+      "surveyQuestions": [
+        {"surveyQuestion": "How often do you stay in hotels?", "surveyType": 1, "surveyAnswers": ["Less than once a year", "1-3 times", "4-6 times", "More than 6"]},
+        {"surveyQuestion": "Key factors when choosing a hotel? (Select all that apply)", "surveyType": 3, "surveyAnswers": ["Price", "Location", "Cleanliness", "Reviews", "Facilities"]},
+        {"surveyQuestion": "How important is cleanliness? (1-5)", "surveyType": 1, "surveyAnswers": ["1", "2", "3", "4", "5"]},
+        {"surveyQuestion": "Suggestions for hotels in Kenya?", "surveyType": 2, "surveyAnswers": []}
+      ]
+    },
+    {
+      "surveyId": "FURNITURE_26",
+      "surveyCategory": "Furniture & Home Design",
+      "surveyPaid": true,
+      "surveyAmount": 55,
+      "surveyQuestions": [
+        {"surveyQuestion": "How often do you buy furniture?", "surveyType": 1, "surveyAnswers": ["Once a year", "Every few years", "Rarely"]},
+        {"surveyQuestion": "Preferred shopping method?", "surveyType": 1, "surveyAnswers": ["Physical store", "Online", "Both"]},
+        {"surveyQuestion": "Important factors? (Select all that apply)", "surveyType": 3, "surveyAnswers": ["Price", "Quality", "Design", "Durability"]},
+        {"surveyQuestion": "Favorite home design style?", "surveyType": 2, "surveyAnswers": []}
+      ]
+    },
+    {
+      "surveyId": "CARS_27",
+      "surveyCategory": "Cars & Automotive",
+      "surveyPaid": true,
+      "surveyAmount": 78,
+      "surveyQuestions": [
+        {"surveyQuestion": "Favorite car brand?", "surveyType": 1, "surveyAnswers": ["Toyota", "Honda", "BMW", "Mercedes", "Other"]},
+        {"surveyQuestion": "Preferred fuel type?", "surveyType": 1, "surveyAnswers": ["Gasoline", "Diesel", "Electric", "Hybrid"]},
+        {"surveyQuestion": "Important car features? (Select all that apply)", "surveyType": 3, "surveyAnswers": ["Safety", "Fuel efficiency", "Technology", "Comfort"]},
+        {"surveyQuestion": "Would you buy an electric car in Kenya?", "surveyType": 2, "surveyAnswers": []}
+      ]
+    },
+    {
+      "surveyId": "POLITICS_28",
+      "surveyCategory": "Political Stability & Governance",
+      "surveyPaid": true,
+      "surveyAmount": 58,
+      "surveyQuestions": [
+        {"surveyQuestion": "How would you rate political stability in your country? (1-5)", "surveyType": 1, "surveyAnswers": ["1", "2", "3", "4", "5"]},
+        {"surveyQuestion": "Factors contributing to stability? (Select all that apply)", "surveyType": 3, "surveyAnswers": ["Strong institutions", "Economic growth", "Rule of law", "Social cohesion"]},
+        {"surveyQuestion": "Confidence in government maintaining stability?", "surveyType": 1, "surveyAnswers": ["Very confident", "Somewhat", "Not confident"]},
+        {"surveyQuestion": "Suggestions for better governance?", "surveyType": 2, "surveyAnswers": []}
+      ]
+    },
+    {
+      "surveyId": "WOMENRIGHTS_29",
+      "surveyCategory": "Women Rights & Gender Equality",
+      "surveyPaid": true,
+      "surveyAmount": 60,
+      "surveyQuestions": [
+        {"surveyQuestion": "Which women's rights issue matters most to you? (Select all that apply)", "surveyType": 3, "surveyAnswers": ["Equal pay", "Gender-based violence", "Education access", "Political representation"]},
+        {"surveyQuestion": "Do you believe women have equal opportunities?", "surveyType": 1, "surveyAnswers": ["Yes", "No", "Not sure"]},
+        {"surveyQuestion": "Biggest challenge for women today?", "surveyType": 2, "surveyAnswers": []}
+      ]
+    },
+    {
+      "surveyId": "CLEANWATER_30",
+      "surveyCategory": "Clean Water Access",
+      "surveyPaid": false,
+      "surveyAmount": 50,
+      "surveyQuestions": [
+        {"surveyQuestion": "Sources of water you use? (Select all that apply)", "surveyType": 3, "surveyAnswers": ["Tap water", "Bottled", "Well", "River", "Rainwater"]},
+        {"surveyQuestion": "How often do you face water scarcity?", "surveyType": 1, "surveyAnswers": ["Never", "Rarely", "Sometimes", "Often"]},
+        {"surveyQuestion": "Satisfied with drinking water quality?", "surveyType": 1, "surveyAnswers": ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied"]},
+        {"surveyQuestion": "Suggestions for better water access in your area?", "surveyType": 2, "surveyAnswers": []}
       ]
     }
   ]
